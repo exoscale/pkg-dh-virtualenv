@@ -1,20 +1,38 @@
-dh-virtualenv (0.11-1~precise0+exo1) precise; urgency=medium
+dh-virtualenv (1.2.1-1+exo1) UNRELEASED; urgency=medium
 
-  * Backport to Precise.
+  *  Backport 1.2.1-1 to Focal
 
- -- Vincent Bernat <bernat@debian.org>  Thu, 13 Apr 2017 09:04:06 +0200
+ -- Alessandro Ratti <alessandro@exoscale.com>  Tue, 15 Sep 2020 07:34:28 +0000
+
+dh-virtualenv (1.2.1-1) unstable; urgency=medium
+
+  * New upstream release (Closes: #936392)
+
+ -- Jyrki Pulliainen <jyrki@dywypi.org>  Sun, 19 Jul 2020 22:36:19 +0300
+
+dh-virtualenv (1.2-1) unstable; urgency=medium
+
+  * New upstream release (Closes: #936392)
+
+ -- Jyrki Pulliainen <jyrki@dywypi.org>  Thu, 02 Jul 2020 21:26:02 +0300
+
+dh-virtualenv (1.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jyrki Pulliainen <jyrki@spotify.com>  Sun, 23 Sep 2018 12:50:10 +0200
+
+dh-virtualenv (1.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jyrki Pulliainen <jyrki@spotify.com>  Tue, 11 Oct 2016 10:36:35 +0200
 
 dh-virtualenv (0.11-1) unstable; urgency=low
 
   * New upstream release
 
  -- Jyrki Pulliainen <jyrki@spotify.com>  Tue, 29 Dec 2015 14:20:14 +0200
-
-dh-virtualenv (0.10-1~precise0+exo1) precise; urgency=medium
-
-  * Backport to Precise. Works as is.
-
- -- Vincent Bernat <bernat@debian.org>  Wed, 02 Sep 2015 10:54:32 +0200
 
 dh-virtualenv (0.10-1) unstable; urgency=low
 
